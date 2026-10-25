@@ -1,0 +1,11 @@
+streamlit>=1.40
+anthropic>=2.0
+openai>=1.40
+google-genai>=1.30
+sqlglot>=25,<27
+pymysql>=1.1
+pandas>=2.0
+python-dotenv>=1.0
+pytest>=8.0
+fastapi>=0.110
+uvicorn>=0.29

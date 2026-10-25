@@ -1,0 +1,18 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# runtime output
+logs/*
+!logs/.gitkeep
+
+# os / editor
+.DS_Store
+.streamlit/
+.vscode/
+.idea/
